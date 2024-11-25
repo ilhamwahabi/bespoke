@@ -21,7 +21,7 @@
     "@types/redux-form": "^8.2.2",
     "axios": "^0.21.2",
     "emotion": "^10.0.27",
-    "node-sass": "4.13.1",
+    "node-sass": "7.0.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
     "react-icons": "^3.9.0",
